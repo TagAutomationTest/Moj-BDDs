@@ -11,7 +11,7 @@ Feature: White List Execution API
     And verify that identity had details from Moc
       | CRNumber   |
       | 4030206632 |
-    When Execute WhiteList API
+    When Execute Whi teList API
       | IdentityId | RequiredAction | ExpirationDate              |
       | 4030206632 | Add            | 2026-01-12 12:43:17.2797078 |
     Then validate that response is 200 Ok
@@ -33,7 +33,3 @@ Feature: White List Execution API
       | 4030206632 | Delete         | 2026-01-12 12:43:17.2797078 |
      Then validate that response is 200 Ok
      And validate response body
-
-
-
-
