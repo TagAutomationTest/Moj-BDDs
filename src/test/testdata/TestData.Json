@@ -1,0 +1,17 @@
+{
+  "NagezUrl": "/api/Najiz/ocp/IllegalWhiteList/AddUpdateIdentityIllegalWhiteList",
+  "MocUrl": "/v6/integ_gsb_mci_inquiry/GetCRInformationByCRNumber",
+  "WhiteList": [
+    {
+      "MOC_CRNameAR": "مطاعم عالم البخاري المميز لتقديم الوجبات",
+      "MOC_CRNationalNumber": "7012291279",
+      "MOC_CRlegalTypeID": "214",
+      "PartyTypeId": "2",
+      "MOC_CRLegalTypeAR": "ذات مسئولية محدودة مختلطة",
+      "MOC_CRStatusId": "0",
+      "MOC_CRStatusReasonAr": "السجل التجاري قائم",
+      "OcpRequestId": "1"
+    }
+  ],
+  "EditDecisions": {}
+}

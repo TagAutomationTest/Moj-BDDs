@@ -1,0 +1,22 @@
+{
+  "url": "https://subscribe.stctv.com/sa-en",
+  "country1": "KSA",
+  "country2": "Kuwait",
+  "country3": "Bahrain",
+  "noOfPackageTypes": "3",
+  "packageTypes1": "Lite",
+  "packageTypes2": "Classic",
+  "packageTypes3": "Perimium",
+  "currency1": "SAR",
+  "currency2": "BHD",
+  "currency3": "KWD",
+  "ksa_Lite": "15",
+  "ksa_classic": "25",
+  "ksa_prem": "60",
+  "bahrinLite": "2",
+  "bahrinClassic": "3",
+  "bahrinPerimium": "6",
+  "kweuitLite": "1.2",
+  "kweuitClassic": "2.5",
+  "kweuitPerimium": "4.8"
+}

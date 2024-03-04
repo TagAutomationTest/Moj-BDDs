@@ -1,0 +1,5 @@
+agent:
+  name@AR: أحمد
+  name@EN: Ahmed
+  # Optional default name without environment specifier
+  name: Ahmed
